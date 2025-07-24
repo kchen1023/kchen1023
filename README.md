@@ -1,8 +1,8 @@
 # 💫 About Me:
-⭐️ My name is Kristin (she/her), based in Baltimore, MD. I'm aspiring to be a full-stack SWE.<br>🐱 I'm currently working on a web app for the game "The Battle Cats".<br>📋 It helps users keep track of evolution materials (how much is required, how much more is needed, etc.).<br>🌱 Currently using this opportunity as a way to improve my skills with Python, Java, Spring Boot, React, and SQL.<br>.<br>
+⭐️ My name is Kristin (she/her), based in Baltimore, MD. I'm aspiring to be a full-stack SWE.<br>🐱 I'm currently working on a web app for the game "The Battle Cats".<br>📋 It helps users keep track of evolution materials (how much is required, how much more is needed, etc.).<br>🌱 Currently using this opportunity as a way to improve my skills with Python, Java, Spring Boot, React, and SQL.<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linktr.ee/kchen1023) 
 
 # 💻 Tech Stack:
