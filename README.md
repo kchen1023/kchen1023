@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐️ My name is Kristin (she/her), based in Baltimore, MD. I'm intered in becoming a SWE but I'm also want to get into the IT/cybersecurity space!<br>🐱 I'm currently working on a web app for the game "The Battle Cats" called "Catfruit Tracker".<br>📋 It helps users keep track of evolution materials (how much is required, how much more is needed, etc.).<br>🌱 Currently using this opportunity as a way to improve my skills with Python, Java, Spring Boot, React, and SQL.<br><br>
+⭐️ My name is Kristin (she/her), based in Baltimore, MD. I'm interested in getting into the IT/cybersecurity space!<br>🐱 I'm currently working on a web app for the game "The Battle Cats" called "Catfruit Tracker".<br>📋 It helps users keep track of evolution materials (how much is required, how much more is needed, etc.).<br>🌱 Currently using this opportunity as a way to improve my skills with Python, Java, Spring Boot, React, and SQL.<br><br>
 
 
 # 🌐 Socials:
